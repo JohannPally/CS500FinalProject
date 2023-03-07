@@ -1,0 +1,47 @@
+CMP Computing essentials 152  
+DES Software design 48 
+CMP.cf Computer science foundations 120  
+DES.con Design concepts 3 
+CMP.ct Construction technologies 20  
+DES.str Design strategies 6 
+CMP.tl Construction tools 12  
+DES.ar Architectural design 12        
+DES.hci Human-computer interaction design 10         
+DES.dd Detailed design 14        
+DES.ev Design evaluation 3 
+FND Mathematical and engineering fundamentals 80  
+VAV Software verification and validation 37 
+FND.mf Mathematical foundations 50  
+VAV.fnd V&V terminology and foundations 5 
+FND.ef Engineering foundations for software 22  
+VAV.rev Reviews and static analysis 9 
+FND.ec Engineering economics for software 8  
+VAV.tst Testing 18        
+VAV.par Problem analysis and reporting 5 
+PRF Professional practice 29  
+PRO Software process 33 
+PRF.psy Group dynamics and psychology 8  
+PRO.con Process concepts 3 
+PRF.com Communications skills (specific to SE) 15  
+PRO.imp Process implementation 8 
+PRF.pr Professionalism 6  
+PRO.pp Project planning and tracking 8        
+PRO.cm Software configuration management 6        
+PRO.evo Evolution processes and activities 8 
+MAA Software modeling and analysis 28  
+QUA Software quality 10 
+MAA.md Modeling foundations 8  
+QUA.cc Software quality concepts and culture 2 
+MAA.tm Types of models 12  
+QUA.pca Process assurance 4 
+MAA.af Analysis fundamentals 8  
+QUA.pda Product assurance 4 
+REQ Requirements analysis and specification 30  
+SEC Security 20 
+REQ.rfd Requirements fundamentals 6  
+SEC.sfd Security fundamentals 4 
+REQ.er Eliciting requirements 10  
+SEC.net Computer and network security 8 
+REQ.rsd Requirements specification and documentation 10  
+SEC.dev Developing secure software 8 
+REQ.rv Requirements validation 4

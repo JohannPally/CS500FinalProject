@@ -1,0 +1,263 @@
+	CODE	NAME	TYPE	RELEVANCE	HRS
+0	CMP	Computing essentials			152.0
+1	CMP.cf	Computer science foundations			120.0
+2	CMP.cf.1	Programming fundamentals (control and data, typing, recursion)	Application	Essential	
+3	CMP.cf.2	Algorithms, data structures, and complexity	Application	Essential	
+4	CMP.cf.3	Problem solving techniques	Application	Essential	
+5	CMP.cf.4	Abstraction, use and support for (encapsulation, hierarchy, etc.)	Application	Essential	
+6	CMP.cf.5	Computer organization	Comprehension	Essential	
+7	CMP.cf.6	Basic user human factors (I/O, error messages, and robustness)	Comprehension	Essential	
+8	CMP.cf.7	Basic developer human factors (comments, structure, and readability)	Comprehension	Essential	
+9	CMP.cf.8	Programming language basics	Application	Essential	
+10	CMP.cf.9	Operating system basics	Comprehension	Essential	
+11	CMP.cf.10	Database fundamentals	Comprehension	Essential	
+12	CMP.cf.11	Network protocols	Comprehension	Essential	
+13	CMP.ct	Construction technologies			20.0
+14	CMP.ct.1	API design and use	Application	Essential	
+15	CMP.ct.2	Code reuse and libraries	Application	Essential	
+16	CMP.ct.3	Object-oriented runtime issues (e.g., polymorphism and dynamic binding)	Application	Essential	
+17	CMP.ct.4	Parameterization and generics	Application	Essential	
+18	CMP.ct.5	Assertions, design by contract, and defensive programming	Application	Essential	
+19	CMP.ct.6	Error handling, exception handling, and fault tolerance	Application	Essential	
+20	CMP.ct.7	State-based and table-driven construction techniques	Comprehension	Essential	
+21	CMP.ct.8	Runtime configuration and internationalization	Application	Essential	
+22	CMP.ct.9	Grammar-based input processing (parsing)	Application	Essential	
+23	CMP.ct.10	Concurrency primitives (e.g., semaphores and monitors)	Application	Essential	
+24	CMP.ct.11	Construction methods for distributed software (e.g., cloud and mobile computing)	Application	Essential	
+25	CMP.ct.12	Constructing hardware/software systems	Comprehension	Essential	
+26	CMP.ct.13	Performance analysis and tuning	Knowledge	Essential	
+27	CMP.tl	Construction tools			12.0
+28	CMP.tl.1	Development environments	Application	Essential	
+29	CMP.tl.2	User interface frameworks and tools	Comprehension	Essential	
+30	CMP.tl.3	Unit testing tools	Comprehension	Essential	
+31	FND	Mathematical and engineering fundamentals			80.0
+32	FND.mf	Mathematical foundations			50.0
+33	FND.mf.1	Functions, relations, and sets	Application	Essential	
+34	FND.mf.2	Basic logic (propositional and predicate)	Application	Essential	
+35	FND.mf.3	Proof techniques (direct, contradiction, and inductive)	Application	Essential	
+36	FND.mf.4	Basics of counting	Application	Essential	
+37	FND.mf.5	Graphs and trees	Application	Essential	
+38	FND.mf.6	Discrete probability	Application	Essential	
+39	FND.mf.7	Finite state machines and regular expressions	Comprehension	Essential	
+40	FND.mf.8	Grammars	Comprehension	Essential	
+41	FND.mf.9	Numerical precision, accuracy, and errors	Comprehension	Essential	
+42	FND.mf.10	Number theory			
+43	FND.ef	Engineering foundations for software			22.0
+44	FND.ef.1	Empirical methods and experimental techniques (e.g., CPU and memory usage measurement)	Comprehension	Essential	
+45	FND.ef.2	Statistical analysis (e.g., simple hypothesis testing, estimating, regression, and correlation.)	Application	Essential	
+46	FND.ef.3	Measurement and metrics	Knowledge	Essential	
+47	FND.ef.4	Systems development (e.g., security, safety, performance, effects of scaling, and feature interaction)	Knowledge	Essential	
+48	FND.ef.5	Engineering design (e.g., formulation of problem, alternative solutions, and feasibility)	Comprehension	Essential	
+49	FND.ef.6	Theory of measurement (e.g., criteria for valid measurement)	Comprehension	Essential	
+50	FND.ec	Engineering economics for software			8.0
+51	FND.ec.1	Value considerations throughout the software life cycle	Knowledge	Essential	
+52	FND.ec.2	Evaluating cost-effective solutions (e.g., benefits realization, tradeoff analysis, cost analysis, and return on investment)	Comprehension	Essential	
+53	PRF	Professional practice			29.0
+54	PRF.psy	Group dynamics and psychology			8.0
+55	PRF.psy.1	Dynamics of working in teams and groups	Application	Essential	
+56	PRF.psy.2	Individual cognition (e.g., limits)	Knowledge	Essential	
+57	PRF.psy.3	Cognitive problem complexity	Knowledge	Essential	
+58	PRF.psy.4	Interacting with stakeholders	Comprehension	Essential	
+59	PRF.psy.5	Dealing with uncertainty and ambiguity	Knowledge	Essential	
+60	PRF.psy.6	Dealing with multicultural environments	Knowledge	Essential	
+61	PRF.com	Communications skills (specific to SE)			15.0
+62	PRF.com.1	Reading, understanding, and summarizing reading (e.g., source code, and documentation)	Application	Essential	
+63	PRF.com.2	Writing (assignments, reports, evaluations, justifications, etc.)	Application	Essential	
+64	PRF.com.3	Team and group communication (both oral and written, email, etc.)	Application	Essential	
+65	PRF.com.4	Presentation skills	Application	Essential	
+66	PRF.pr	Professionalism			6.0
+67	PRF.pr.1	Accreditation, certification, and licensing	Knowledge	Essential	
+68	PRF.pr.2	Codes of ethics and professional conduct	Comprehension	Essential	
+69	PRF.pr.3	Social, legal, historical, and professional issues and concerns	Comprehension	Essential	
+70	PRF.pr.4	The nature and role of professional societies	Knowledge	Essential	
+71	PRF.pr.5	The nature and role of software engineering standards	Knowledge	Essential	
+72	PRF.pr.6	The economic impact of software	Comprehension	Essential	
+73	PRF.pr.7	Employment contracts	Knowledge	Essential	
+74	MAA	Software modeling and analysis			28.0
+75	MAA.md	Modeling foundations			8.0
+76	MAA.md.1	Modeling principles (e.g., decomposition, abstraction, generalization, projection/views, and use of formal approaches)	Comprehension	Essential	
+77	MAA.md.2	Preconditions, postconditions, invariants, and design by contract	Comprehension	Essential	
+78	MAA.md.3	Introduction to mathematical models and formal notation	Knowledge	Essential	
+79	MAA.tm	Types of models			12.0
+80	MAA.tm.1	Information modeling (e.g., entity-relationship modeling and class diagrams)	Application	Essential	
+81	MAA.tm.2	Behavioral modeling (e.g., state diagrams, use case analysis, interaction diagrams, failure modes and effects analysis, and fault tree analysis)	Application	Essential	
+82	MAA.tm.3	Architectural modeling (e.g., architectural patterns and component diagrams)	Comprehension	Essential	
+83	MAA.tm.4	Domain modeling (e.g., domain engineering approaches)	Knowledge	Essential	
+84	MAA.tm.5	Enterprise modeling (e.g., business processes, organizations, goals, and workflow)			
+85	MAA.tm.6	Modeling embedded systems (e.g., real-time schedule analysis, and interface protocols)			
+86	MAA.af	Analysis fundamentals			8.0
+87	MAA.af.1	Analyzing form (e.g., completeness, consistency, and robustness)	Comprehension	Essential	
+88	MAA.af.2	Analyzing correctness (e.g., static analysis, simulation, and model checking)	Application	Essential	
+89	MAA.af.3	Analyzing dependability (e.g., failure mode analysis and fault trees)	Knowledge	Essential	
+90	MAA.af.4	Formal analysis (e.g., theorem proving)	Knowledge	Essential	
+91	REQ	Requirements analysis and specification			30.0
+92	REQ.rfd	Requirements fundamentals			6.0
+93	REQ.rfd.1	Definition of requirements (e.g., product, project, constraints, system boundary, external, and internal)	Comprehension	Essential	
+94	REQ.rfd.2	Requirements process	Comprehension	Essential	
+95	REQ.rfd.3	Layers/levels of requirements (e.g., needs, goals, user requirements, system requirements, and software requirements)	Comprehension	Essential	
+96	REQ.rfd.4	Requirements characteristics (e.g., testable, unambiguous, consistent, correct, traceable, and priority)	Comprehension	Essential	
+97	REQ.rfd.5	Analyzing quality (nonfunctional) requirements (e.g., safety, security, usability, and performance)	Application	Essential	
+98	REQ.rfd.6	Software requirements in the context of systems engineering	Knowledge	Essential	
+99	REQ.rfd.7	Requirements evolution	Comprehension	Essential	
+100	REQ.rfd.8	Traceability	Comprehension	Essential	
+101	REQ.rfd.9	Prioritization, trade-off analysis, risk analysis, and impact analysis	Comprehension	Essential	
+102	REQ.rfd.10	Requirements management (e.g., consistency management, release planning, and reuse)	Knowledge	Essential	
+103	REQ.rfd.11	Interaction between requirements and architecture	Knowledge	Essential	
+104	REQ.er	Eliciting requirements			10.0
+105	REQ.er.1	Elicitation sources (e.g., stakeholders, domain experts, and operational and organization environments)	Comprehension	Essential	
+106	REQ.er.2	Elicitation techniques (e.g., interviews, questionnaires/surveys, prototypes, use cases, observation, and participatory techniques)	Application	Essential	
+107	REQ.rsd	Requirements specification and documentation			10.0
+108	REQ.rsd.1	Requirements documentation basics (e.g., types, audience, structure, quality, attributes, and standards)	Knowledge	Essential	
+109	REQ.rsd.2	Software requirements specification techniques (e.g., plan-driven requirements documentation, decision tables, user stories, and behavioral specifications)	Application	Essential	
+110	REQ.rv	Requirements validation			4.0
+111	REQ.rv.1	Reviews and inspections	Application	Essential	
+112	REQ.rv.2	Prototyping to validate requirements	Knowledge	Essential	
+113	REQ.rv.3	Acceptance test design	Comprehension	Essential	
+114	REQ.rv.4	Validating product quality attributes	Comprehension	Essential	
+115	REQ.rv.5	Requirements interaction analysis (e.g., feature interaction)	Knowledge	Essential	
+116	REQ.rv.6	Formal requirements analysis		Desirable	
+117	DES	Software design			48.0
+118	DES.con	Design concepts			3.0
+119	DES.con.1	Definition of design	Comprehension	Essential	
+120	DES.con.2	Fundamental design issues (e.g., persistent data, storage management, and exceptions)	Comprehension	Essential	
+121	DES.con.3	Context of design within multiple software development life cycles	Knowledge	Essential	
+122	DES.con.4	Design principles (information hiding, cohesion, and coupling)	Application	Essential	
+123	DES.con.5	Interactions between design and requirements	Comprehension	Essential	
+124	DES.con.6	Design for quality attributes (e.g., reliability, usability, maintainability, performance, testability, security, and fault tolerance)	Knowledge	Essential	
+125	DES.con.7	Design trade-offs	Knowledge	Essential	
+126	DES.str	Design strategies			6.0
+127	DES.str.1	Function-oriented design	Comprehension	Essential	
+128	DES.str.2	Object-oriented design	Application	Essential	
+129	DES.str.3	Data-structure centered design		Desirable	
+130	DES.str.4	Aspect-oriented design		Desirable	
+131	DES.ar	Architectural design			12.0
+132	DES.ar.1	Architectural styles, patterns, and frameworks	Application	Essential	
+133	DES.ar.2	Architectural trade-offs among various attributes	Application	Essential	
+134	DES.ar.3	Hardware and systems engineering issues in software architecture	Knowledge	Essential	
+135	DES.ar.4	Requirements traceability in architecture	Knowledge	Essential	
+136	DES.ar.5	Service-oriented architectures	Knowledge	Essential	
+137	DES.ar.6	Architectures for network, mobile, and embedded systems	Knowledge	Essential	
+138	DES.ar.7	Relationship between product architecture and the structure of development organization and market	Knowledge	Essential	
+139	DES.hci	Human-computer interaction design			10.0
+140	DES.hci.1	General HCI design principles	Application	Essential	
+141	DES.hci.2	Use of modes and navigation	Application	Essential	
+142	DES.hci.3	Coding techniques and visual design (e.g., color, icons, and fonts)	Comprehension	Essential	
+143	DES.hci.4	Response time and feedback	Application	Essential	
+144	DES.hci.5	Design modalities (e.g., direct manipulation, menu selection, forms, question-answer, and commands)	Application	Essential	
+145	DES.hci.6	Localization and internationalization	Comprehension	Essential	
+146	DES.hci.7	HCI design methods	Comprehension	Essential	
+147	DES.hci.8	Interface modalities (e.g., speech and natural language, audio/video, and tactile)		Desirable	
+148	DES.hci.9	Metaphors and conceptual models			
+149	DES.hci.10	Psychology of HCI			
+150	DES.dd	Detailed design			14.0
+151	DES.dd.1	Design patterns	Application	Essential	
+152	DES.dd.2	Database design	Application	Essential	
+153	DES.dd.3	Design of networked and mobile systems	Application	Essential	
+154	DES.dd.4	Design notations (e.g., class and object diagrams, UML, state diagrams, and formal specification)	Comprehension	Essential	
+155	DES.ev	Design evaluation			3.0
+156	DES.ev.1	Design attributes (e.g., coupling, cohesion, information hiding, and separation of concerns)	Knowledge	Essential	
+157	DES.ev.2	Design metrics	Application	Essential	
+158	VAV	Software verification and validation			37.0
+159	VAV.fnd	V&V terminology and foundations			5.0
+160	VAV.fnd.1	V&V objectives and constraints	Knowledge	Essential	
+161	VAV.fnd.2	Planning the V&V effort	Knowledge	Essential	
+162	VAV.fnd.3	Documenting V&V strategy, including tests and other artifacts	Application	Essential	
+163	VAV.fnd.4	Metrics and measurement (e.g., reliability, usability, and performance)	Knowledge	Essential	
+164	VAV.fnd.5	V&V involvement at different points in the life cycle	Knowledge	Essential	
+165	VAV.rev	Reviews and static analysis			9.0
+166	VAV.rev.1	Personal reviews (design, code, etc.)	Application	Essential	
+167	VAV.rev.2	Peer reviews (inspections, walkthroughs, etc.)	Application	Essential	
+168	VAV.rev.3	Static analysis (common defect detection, checking against formal specifications, etc.)	Application	Essential	
+169	VAV.tst	Testing			18.0
+170	VAV.tst.1	Unit testing and test-driven development	Application	Essential	
+171	VAV.tst.2	Exception handling (testing edge cases and boundary conditions)	Application	Essential	
+172	VAV.tst.3	Coverage analysis and structure-based testing	Application	Essential	
+173	VAV.tst.4	Black-box functional testing techniques	Application	Essential	
+174	VAV.tst.5	Integration testing	Comprehension	Essential	
+175	VAV.tst.6	Developing test cases based on use cases and/or user stories	Application	Essential	
+176	VAV.tst.7	Testing based on operational profiles (e.g., most-used operations first)	Knowledge	Essential	
+177	VAV.tst.8	System and acceptance testing	Application	Essential	
+178	VAV.tst.9	Testing across quality attributes (e.g., usability, security, compatibility, and accessibility)	Application	Essential	
+179	VAV.tst.10	Regression testing	Comprehension	Essential	
+180	VAV.tst.11	Testing tools and automation	Application	Essential	
+181	VAV.tst.12	User interface testing	Knowledge	Essential	
+182	VAV.tst.13	Usability testing	Application	Essential	
+183	VAV.tst.14	Performance testing	Knowledge	Essential	
+184	VAV.par	Problem analysis and reporting			5.0
+185	VAV.par.1	Analyzing failure reports	Comprehension	Essential	
+186	VAV.par.2	Debugging and fault isolation techniques	Application	Essential	
+187	VAV.par.3	Defect analysis (e.g., identifying product or process root cause for critical defect injection or late detection)	Knowledge	Essential	
+188	VAV.par.4	Problem tracking	Comprehension	Essential	
+189	PRO	Software process			33.0
+190	PRO.con	Process concepts			3.0
+191	PRO.con.1	Themes and terminology	Knowledge	Essential	
+192	PRO.con.2	Software engineering process infrastructure (e.g., personnel, tools, and training)	Knowledge	Essential	
+193	PRO.con.3	Modeling and specification of software processes	Comprehension	Essential	
+194	PRO.con.4	Measurement and analysis of software processes	Comprehension	Essential	
+195	PRO.con.5	Software engineering process improvement (individual, team, and organization)	Comprehension	Essential	
+196	PRO.con.6	Quality analysis and control (e.g., defect prevention, review processes, quality metrics, and root cause analysis of critical defects to improve processes and practices)	Comprehension	Essential	
+197	PRO.con.7	Systems engineering life-cycle models		Desirable	
+198	PRO.imp	Process implementation			8.0
+199	PRO.imp.1	Levels of process definition (e.g., organization, project, team, and individual)	Knowledge	Essential	
+200	PRO.imp.2	Life-cycle model characteristics (e.g., plan-based, incremental, iterative, and agile)	Comprehension	Essential	
+201	PRO.imp.3	Individual software process (model, definition, measurement, analysis, and improvement)	Application	Essential	
+202	PRO.imp.4	Team process (model, definition, organization, measurement, analysis, and improvement)	Application	Essential	
+203	PRO.imp.5	Software process implementation in the context of systems engineering	Knowledge	Essential	
+204	PRO.imp.6	Process tailoring	Knowledge	Essential	
+205	PRO.imp.7	Effect of external factors (e.g., contract and legal requirements, standards, and acquisition practices) on software process	Knowledge	Essential	
+206	PRO.pp	Project planning and tracking			8.0
+207	PRO.pp.1	Requirements management (e.g., product backlog, priorities, dependencies, and changes)	Application	Essential	
+208	PRO.pp.2	Effort estimation (e.g., use of historical data and consensus-based estimation techniques)	Application	Essential	
+209	PRO.pp.3	Work breakdown and task scheduling	Application	Essential	
+210	PRO.pp.4	Resource allocation	Comprehension	Essential	
+211	PRO.pp.5	Risk management (e.g., identification, mitigation, remediation, and status tracking)	Application	Essential	
+212	PRO.pp.6	Project tracking metrics and techniques (e.g., earned value, velocity, burndown charts, defect tracking, and management of technical debt)	Application	Essential	
+213	PRO.pp.7	Team self-management (e.g., progress tracking, dynamic workload allocation, and response to emergent issues)	Application	Essential	
+214	PRO.cm	Software configuration management			6.0
+215	PRO.cm.1	Revision control	Application	Essential	
+216	PRO.cm.2	Release management	Comprehension	Essential	
+217	PRO.cm.3	Configuration management tools	Comprehension	Essential	
+218	PRO.cm.4	Build processes and tools, including automated testing and continuous integration	Application	Essential	
+219	PRO.cm.5	Software configuration management processes	Knowledge	Essential	
+220	PRO.cm.6	Maintenance issues	Knowledge	Essential	
+221	PRO.cm.7	Distribution and backup		Desirable	
+222	PRO.evo	Evolution processes and activities			8.0
+223	PRO.evo.1	Basic concepts of evolution and maintenance	Knowledge	Essential	
+224	PRO.evo.2	Working with legacy systems	Knowledge	Essential	
+225	PRO.evo.3	Refactoring	Comprehension	Essential	
+226	QUA	Software quality			10.0
+227	QUA.cc	Software quality concepts and culture			2.0
+228	QUA.cc.1	Definitions of quality	Knowledge	Essential	
+229	QUA.cc.2	SocietyÃ•s concern for quality	Knowledge	Essential	
+230	QUA.cc.3	The costs and impacts of bad quality	Knowledge	Essential	
+231	QUA.cc.4	A cost of quality model	Comprehension	Essential	
+232	QUA.cc.5	Quality attributes for software (e.g., dependability, usability, and safety)	Knowledge	Essential	
+233	QUA.cc.6	Roles of people, processes, methods, tools, and technology	Knowledge	Essential	
+234	QUA.pca	Process assurance			4.0
+235	QUA.pca.1	The nature of process assurance	Knowledge	Essential	
+236	QUA.pca.2	Quality planning	Knowledge	Essential	
+237	QUA.pca.3	Process assurance techniques	Knowledge	Essential	
+238	QUA.pda	Product assurance			4.0
+239	QUA.pda.1	The nature of product assurance	Knowledge	Essential	
+240	QUA.pda.2	Distinctions between assurance and V&V	Knowledge	Essential	
+241	QUA.pda.3	Quality product models	Knowledge	Essential	
+242	QUA.pda.4	Root cause analysis and defect prevention	Comprehension	Essential	
+243	QUA.pda.5	Quality product metrics and measurement	Comprehension	Essential	
+244	QUA.pda.6	Assessment of product quality attributes (e.g., usability, reliability, and availability)	Comprehension	Essential	
+245	SEC	Security			20.0
+246	SEC.sfd	Security fundamentals			4.0
+247	SEC.sfd.1	Information assurance concepts (confidentiality, integrity, and availability)	Knowledge	Essential	
+248	SEC.sfd.2	Nature of threats (e.g., natural, intentional, and accidental)	Knowledge	Essential	
+249	SEC.sfd.3	Encryption, digital signatures, message authentication, and hash functions	Comprehension	Essential	
+250	SEC.sfd.4	Common cryptographic protocols (applications, strengths, and weaknesses)	Comprehension	Essential	
+251	SEC.sfd.5	Nontechnical security issues (e.g., social engineering)	Comprehension	Essential	
+252	SEC.net	Computer and network security			8.0
+253	SEC.net.1	Network security threats and attacks	Knowledge	Essential	
+254	SEC.net.2	Use of cryptography for network security	Knowledge	Essential	
+255	SEC.net.3	Protection and defense mechanisms and tools	Comprehension	Essential	
+256	SEC.dev	Developing secure software			8.0
+257	SEC.dev.1	Building security into the software development life cycle	Comprehension	Essential	
+258	SEC.dev.2	Security in requirements analysis and specification	Application	Essential	
+259	SEC.dev.3	Secure design principles and patterns	Application	Essential	
+260	SEC.dev.4	Secure software construction techniques	Application	Essential	
+261	SEC.dev.5	Security-related verification and validation	Application	Essential	

@@ -1,0 +1,271 @@
+CMP	Computing essentials			152
+CMP.cf	Computer science foundations			120
+CMP.cf.1	Programming fundamentals (control and data, typing, recursion)	a	E	
+CMP.cf.2	Algorithms, data structures, and complexity	a	E	
+CMP.cf.3	Problem solving techniques	a	E	
+CMP.cf.4	Abstraction, use and support for (encapsulation, hierarchy, etc.)	a	E	
+CMP.cf.5	Computer organization	c	E	
+CMP.cf.6	Basic user human factors (I/O, error messages, and robustness)	c	E	
+CMP.cf.7	Basic developer human factors (comments, structure, and readability)	c	E	
+CMP.cf.8	Programming language basics	a	E	
+CMP.cf.9	Operating system basics	c	E	
+CMP.cf.10	Database fundamentals	c	E	
+CMP.cf.11	Network protocols	c	E	
+CMP.ct	Construction technologies			20
+CMP.ct.1	API design and use	a	E	
+CMP.ct.2	Code reuse and libraries	a	E	
+CMP.ct.3	Object-oriented runtime issues (e.g., polymorphism and dynamic binding)	a	E	
+CMP.ct.4	Parameterization and generics	a	E	
+CMP.ct.5	Assertions, design by contract, and defensive programming	a	E	
+CMP.ct.6	Error handling, exception handling, and fault tolerance	a	E	
+CMP.ct.7	State-based and table-driven construction techniques	c	E	
+CMP.ct.8	Runtime configuration and internationalization	a	E	
+CMP.ct.9	Grammar-based input processing (parsing)	a	E	
+CMP.ct.10	Concurrency primitives (e.g., semaphores and monitors)	a	E	
+CMP.ct.11	Construction methods for distributed software (e.g., cloud and mobile computing)	a	E	
+CMP.ct.12	Constructing hardware/software systems	c	E	
+CMP.ct.13	Performance analysis and tuning	k	E	
+CMP.tl	Construction tools			12
+CMP.tl.1	Development environments	a	E	
+CMP.tl.2	User interface frameworks and tools	c	E	
+CMP.tl.3	Unit testing tools	c	E	
+
+FND	Mathematical and engineering fundamentals			80
+FND.mf	Mathematical foundations			50
+FND.mf.1	Functions, relations, and sets	a	E	
+FND.mf.2	Basic logic (propositional and predicate)	a	E	
+FND.mf.3	Proof techniques (direct, contradiction, and inductive)	a	E	
+FND.mf.4	Basics of counting	a	E	
+FND.mf.5	Graphs and trees	a	E	
+FND.mf.6	Discrete probability	a	E	
+FND.mf.7	Finite state machines and regular expressions	c	E	
+FND.mf.8	Grammars	c	E	
+FND.mf.9	Numerical precision, accuracy, and errors	c	E	
+FND.mf.10	Number theory		D   
+FND.ef	Engineering foundations for software			22
+FND.ef.1	Empirical methods and experimental techniques (e.g., CPU and memory usage measurement)	c	E	
+FND.ef.2	Statistical analysis (e.g., simple hypothesis testing, estimating, regression, and correlation.)	a	E	
+FND.ef.3	Measurement and metrics	k	E	
+FND.ef.4	Systems development (e.g., security, safety, performance, effects of scaling, and feature interaction)	k	E	
+FND.ef.5	Engineering design (e.g., formulation of problem, alternative solutions, and feasibility)	c	E	
+FND.ef.6	Theory of measurement (e.g., criteria for valid measurement)	c	E	
+FND.ec	Engineering economics for software			8
+FND.ec.1	Value considerations throughout the software life cycle	k	E	
+FND.ec.2	Evaluating cost-effective solutions (e.g., benefits realization, tradeoff analysis, cost analysis, and return on investment)	c	E	
+
+PRF	Professional practice			29
+PRF.psy	Group dynamics and psychology			8
+PRF.psy.1	Dynamics of working in teams and groups	a	E	
+PRF.psy.2	Individual cognition (e.g., limits)	k	E	
+PRF.psy.3	Cognitive problem complexity	k	E	
+PRF.psy.4	Interacting with stakeholders	c	E	
+PRF.psy.5	Dealing with uncertainty and ambiguity	k	E	
+PRF.psy.6	Dealing with multicultural environments	k	E	
+PRF.com	Communications skills (specific to SE)			15
+PRF.com.1	Reading, understanding, and summarizing reading (e.g., source code, and documentation)	a	E	
+PRF.com.2	Writing (assignments, reports, evaluations, justifications, etc.)	a	E	
+PRF.com.3	Team and group communication (both oral and written, email, etc.)	a	E	
+PRF.com.4	Presentation skills	a	E	
+PRF.pr	Professionalism			6
+PRF.pr.1	Accreditation, certification, and licensing	k	E	
+PRF.pr.2	Codes of ethics and professional conduct	c	E	
+PRF.pr.3	Social, legal, historical, and professional issues and concerns	c	E	
+PRF.pr.4	The nature and role of professional societies	k	E	
+PRF.pr.5	The nature and role of software engineering standards	k	E	
+PRF.pr.6	The economic impact of software	c	E	
+PRF.pr.7	Employment contracts	k	E	
+
+MAA	Software modeling and analysis			28
+MAA.md	Modeling foundations			8
+MAA.md.1	Modeling principles (e.g., decomposition, abstraction, generalization, projection/views, and use of formal approaches)	c	E	
+MAA.md.2	Preconditions, postconditions, invariants, and design by contract	c	E	
+MAA.md.3	Introduction to mathematical models and formal notation	k	E	
+MAA.tm	Types of models			12
+MAA.tm.1	Information modeling (e.g., entity-relationship modeling and class diagrams)	a	E	
+MAA.tm.2	Behavioral modeling (e.g., state diagrams, use case analysis, interaction diagrams, failure modes and effects analysis, and fault tree analysis)	a	E	
+MAA.tm.3	Architectural modeling (e.g., architectural patterns and component diagrams)	c	E	
+MAA.tm.4	Domain modeling (e.g., domain engineering approaches)	k	E	
+MAA.tm.5	Enterprise modeling (e.g., business processes, organizations, goals, and workflow)		D   
+MAA.tm.6	Modeling embedded systems (e.g., real-time schedule analysis, and interface protocols)		D   
+MAA.af	Analysis fundamentals			8
+MAA.af.1	Analyzing form (e.g., completeness, consistency, and robustness)	c	E	
+MAA.af.2	Analyzing correctness (e.g., static analysis, simulation, and model checking)	a	E	
+MAA.af.3	Analyzing dependability (e.g., failure mode analysis and fault trees)	k	E	
+MAA.af.4	Formal analysis (e.g., theorem proving)	k	E	
+
+REQ	Requirements analysis and specification			30
+REQ.rfd	Requirements fundamentals			6
+REQ.rfd.1	Definition of requirements (e.g., product, project, constraints, system boundary, external, and internal)	c	E	
+REQ.rfd.2	Requirements process	c	E	
+REQ.rfd.3	Layers/levels of requirements (e.g., needs, goals, user requirements, system requirements, and software requirements)	c	E	
+REQ.rfd.4	Requirements characteristics (e.g., testable, unambiguous, consistent, correct, traceable, and priority)	c	E	
+REQ.rfd.5	Analyzing quality (nonfunctional) requirements (e.g., safety, security, usability, and performance)	a	E	
+REQ.rfd.6	Software requirements in the context of systems engineering	k	E	
+REQ.rfd.7	Requirements evolution	c	E	
+REQ.rfd.8	Traceability	c	E	
+REQ.rfd.9	Prioritization, trade-off analysis, risk analysis, and impact analysis	c	E	
+REQ.rfd.10	Requirements management (e.g., consistency management, release planning, and reuse)	k	E	
+REQ.rfd.11	Interaction between requirements and architecture	k	E	
+REQ.er	Eliciting requirements			10
+REQ.er.1	Elicitation sources (e.g., stakeholders, domain experts, and operational and organization environments)	c	E	
+REQ.er.2	Elicitation techniques (e.g., interviews, questionnaires/surveys, prototypes, use cases, observation, and participatory techniques)	a	E	
+REQ.rsd	Requirements specification and documentation			10
+REQ.rsd.1	Requirements documentation basics (e.g., types, audience, structure, quality, attributes, and standards)	k	E	
+REQ.rsd.2	Software requirements specification techniques (e.g., plan-driven requirements documentation, decision tables, user stories, and behavioral specifications)	a	E	
+REQ.rv	Requirements validation			4
+REQ.rv.1	Reviews and inspections	a	E	
+REQ.rv.2	Prototyping to validate requirements	k	E	
+REQ.rv.3	Acceptance test design	c	E	
+REQ.rv.4	Validating product quality attributes	c	E	
+REQ.rv.5	Requirements interaction analysis (e.g., feature interaction)	k	E	
+REQ.rv.6	Formal requirements analysis		D	
+
+DES	Software design			48
+DES.con	Design concepts			3
+DES.con.1	Definition of design	c	E	
+DES.con.2	Fundamental design issues (e.g., persistent data, storage management, and exceptions)	c	E	
+DES.con.3	Context of design within multiple software development life cycles	k	E	
+DES.con.4	Design principles (information hiding, cohesion, and coupling)	a	E	
+DES.con.5	Interactions between design and requirements	c	E	
+DES.con.6	Design for quality attributes (e.g., reliability, usability, maintainability, performance, testability, security, and fault tolerance)	k	E	
+DES.con.7	Design trade-offs	k	E	
+DES.str	Design strategies			6
+DES.str.1	Function-oriented design	c	E	
+DES.str.2	Object-oriented design	a	E	
+DES.str.3	Data-structure centered design		D	
+DES.str.4	Aspect-oriented design		D	
+DES.ar	Architectural design			12
+DES.ar.1	Architectural styles, patterns, and frameworks	a	E	
+DES.ar.2	Architectural trade-offs among various attributes	a	E	
+DES.ar.3	Hardware and systems engineering issues in software architecture	k	E	
+DES.ar.4	Requirements traceability in architecture	k	E	
+DES.ar.5	Service-oriented architectures	k	E	
+DES.ar.6	Architectures for network, mobile, and embedded systems	k	E	
+DES.ar.7	Relationship between product architecture and the structure of development organization and market	k	E	
+DES.hci	Human-computer interaction design			10
+DES.hci.1	General HCI design principles	a	E	
+DES.hci.2	Use of modes and navigation	a	E	
+DES.hci.3	Coding techniques and visual design (e.g., color, icons, and fonts)	c	E	
+DES.hci.4	Response time and feedback	a	E	
+DES.hci.5	Design modalities (e.g., direct manipulation, menu selection, forms, question-answer, and commands)	a	E	
+DES.hci.6	Localization and internationalization	c	E	
+DES.hci.7	HCI design methods	c	E	
+DES.hci.8	Interface modalities (e.g., speech and natural language, audio/video, and tactile)		D	
+DES.hci.9	Metaphors and conceptual models		D   
+DES.hci.10	Psychology of HCI		D   
+DES.dd	Detailed design			14
+DES.dd.1	Design patterns	a	E	
+DES.dd.2	Database design	a	E	
+DES.dd.3	Design of networked and mobile systems	a	E	
+DES.dd.4	Design notations (e.g., class and object diagrams, UML, state diagrams, and formal specification)	c	E	
+DES.ev	Design evaluation			3
+DES.ev.1	Design attributes (e.g., coupling, cohesion, information hiding, and separation of concerns)	k	E	
+DES.ev.2	Design metrics	a	E	
+
+VAV	Software verification and validation			37
+VAV.fnd	V&V terminology and foundations			5
+VAV.fnd.1	V&V objectives and constraints	k	E	
+VAV.fnd.2	Planning the V&V effort	k	E	
+VAV.fnd.3	Documenting V&V strategy, including tests and other artifacts	a	E	
+VAV.fnd.4	Metrics and measurement (e.g., reliability, usability, and performance)	k	E	
+VAV.fnd.5	V&V involvement at different points in the life cycle	k	E	
+VAV.rev	Reviews and static analysis			9
+VAV.rev.1	Personal reviews (design, code, etc.)	a	E	
+VAV.rev.2	Peer reviews (inspections, walkthroughs, etc.)	a	E	
+VAV.rev.3	Static analysis (common defect detection, checking against formal specifications, etc.)	a	E	
+VAV.tst	Testing			18
+VAV.tst.1	Unit testing and test-driven development	a	E	
+VAV.tst.2	Exception handling (testing edge cases and boundary conditions)	a	E	
+VAV.tst.3	Coverage analysis and structure-based testing	a	E	
+VAV.tst.4	Black-box functional testing techniques	a	E	
+VAV.tst.5	Integration testing	c	E	
+VAV.tst.6	Developing test cases based on use cases and/or user stories	a	E	
+VAV.tst.7	Testing based on operational profiles (e.g., most-used operations first)	k	E	
+VAV.tst.8	System and acceptance testing	a	E	
+VAV.tst.9	Testing across quality attributes (e.g., usability, security, compatibility, and accessibility)	a	E	
+VAV.tst.10	Regression testing	c	E	
+VAV.tst.11	Testing tools and automation	a	E	
+VAV.tst.12	User interface testing	k	E	
+VAV.tst.13	Usability testing	a	E	
+VAV.tst.14	Performance testing	k	E	
+VAV.par	Problem analysis and reporting			5
+VAV.par.1	Analyzing failure reports	c	E	
+VAV.par.2	Debugging and fault isolation techniques	a	E	
+VAV.par.3	Defect analysis (e.g., identifying product or process root cause for critical defect injection or late detection)	k	E	
+VAV.par.4	Problem tracking	c	E	
+ 
+PRO	Software process			33
+PRO.con	Process concepts			3
+PRO.con.1	Themes and terminology	k	E	
+PRO.con.2	Software engineering process infrastructure (e.g., personnel, tools, and training)	k	E	
+PRO.con.3	Modeling and specification of software processes	c	E	
+PRO.con.4	Measurement and analysis of software processes	c	E	
+PRO.con.5	Software engineering process improvement (individual, team, and organization)	c	E	
+PRO.con.6	Quality analysis and control (e.g., defect prevention, review processes, quality metrics, and root cause analysis of critical defects to improve processes and practices)	c	E	
+PRO.con.7	Systems engineering life-cycle models		D	
+PRO.imp	Process implementation			8
+PRO.imp.1	Levels of process definition (e.g., organization, project, team, and individual)	k	E	
+PRO.imp.2	Life-cycle model characteristics (e.g., plan-based, incremental, iterative, and agile)	c	E	
+PRO.imp.3	Individual software process (model, definition, measurement, analysis, and improvement)	a	E	
+PRO.imp.4	Team process (model, definition, organization, measurement, analysis, and improvement)	a	E	
+PRO.imp.5	Software process implementation in the context of systems engineering	k	E	
+PRO.imp.6	Process tailoring	k	E	
+PRO.imp.7	Effect of external factors (e.g., contract and legal requirements, standards, and acquisition practices) on software process	k	E	
+PRO.pp	Project planning and tracking			8
+PRO.pp.1	Requirements management (e.g., product backlog, priorities, dependencies, and changes)	a	E	
+PRO.pp.2	Effort estimation (e.g., use of historical data and consensus-based estimation techniques)	a	E	
+PRO.pp.3	Work breakdown and task scheduling	a	E	
+PRO.pp.4	Resource allocation	c	E	
+PRO.pp.5	Risk management (e.g., identification, mitigation, remediation, and status tracking)	a	E	
+PRO.pp.6	Project tracking metrics and techniques (e.g., earned value, velocity, burndown charts, defect tracking, and management of technical debt)	a	E	
+PRO.pp.7	Team self-management (e.g., progress tracking, dynamic workload allocation, and response to emergent issues)	a	E	
+PRO.cm	Software configuration management			6
+PRO.cm.1	Revision control	a	E	
+PRO.cm.2	Release management	c	E	
+PRO.cm.3	Configuration management tools	c	E	
+PRO.cm.4	Build processes and tools, including automated testing and continuous integration	a	E	
+PRO.cm.5	Software configuration management processes	k	E	
+PRO.cm.6	Maintenance issues	k	E	
+PRO.cm.7	Distribution and backup		D	
+PRO.evo	Evolution processes and activities			8
+PRO.evo.1	Basic concepts of evolution and maintenance	k	E	
+PRO.evo.2	Working with legacy systems	k	E	
+PRO.evo.3	Refactoring	c	E	
+ 
+QUA	Software quality			10
+QUA.cc	Software quality concepts and culture			2
+QUA.cc.1	Definitions of quality	k	E	
+QUA.cc.2	SocietyÕs concern for quality	k	E	
+QUA.cc.3	The costs and impacts of bad quality	k	E	
+QUA.cc.4	A cost of quality model	c	E	
+QUA.cc.5	Quality attributes for software (e.g., dependability, usability, and safety)	k	E	
+QUA.cc.6	Roles of people, processes, methods, tools, and technology	k	E	
+QUA.pca	Process assurance			4
+QUA.pca.1	The nature of process assurance	k	E	
+QUA.pca.2	Quality planning	k	E	
+QUA.pca.3	Process assurance techniques	k	E	
+QUA.pda	Product assurance			4
+QUA.pda.1	The nature of product assurance	k	E	
+QUA.pda.2	Distinctions between assurance and V&V	k	E	
+QUA.pda.3	Quality product models	k	E	
+QUA.pda.4	Root cause analysis and defect prevention	c	E	
+QUA.pda.5	Quality product metrics and measurement	c	E	
+QUA.pda.6	Assessment of product quality attributes (e.g., usability, reliability, and availability)	c	E	
+
+SEC	Security			20
+SEC.sfd	Security fundamentals			4
+SEC.sfd.1	Information assurance concepts (confidentiality, integrity, and availability)	k	E	
+SEC.sfd.2	Nature of threats (e.g., natural, intentional, and accidental)	k	E	
+SEC.sfd.3	Encryption, digital signatures, message authentication, and hash functions	c	E	
+SEC.sfd.4	Common cryptographic protocols (applications, strengths, and weaknesses)	c	E	
+SEC.sfd.5	Nontechnical security issues (e.g., social engineering)	c	E	
+SEC.net	Computer and network security			8
+SEC.net.1	Network security threats and attacks	k	E	
+SEC.net.2	Use of cryptography for network security	k	E	
+SEC.net.3	Protection and defense mechanisms and tools	c	E	
+SEC.dev	Developing secure software			8
+SEC.dev.1	Building security into the software development life cycle	c	E	
+SEC.dev.2	Security in requirements analysis and specification	a	E	
+SEC.dev.3	Secure design principles and patterns	a	E	
+SEC.dev.4	Secure software construction techniques	a	E	
+SEC.dev.5	Security-related verification and validation	a	E	
