@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 # LOADING DATA
 other_headers = ['Index','FALL_2018_GPA','SPRING_2022_GPA']
 sem_headers = ['FALL_2018','SPRING_2019','FALL_2019','SPRING_2020','FALL_2020','SPRING_2021','FALL_2021','SPRING_2022']
+#TODO need to redefine to be estimated class status
 sem_trans_colors = {('SPRING_2020','FALL_2020'): 'red',
                 ('FALL_2018','SPRING_2019'): 'orange', 
                 ('SPRING_2019','FALL_2019'): 'yellow', 
@@ -39,6 +40,7 @@ for sem in sem_headers:
 # print(raw_counts)
 
 # COUNTING TRANSITIONS FOR ENROLLMENT ALONG SEMESTER
+# TODO estimate class status depending on empty cells left or right for student
 course_transitions = defaultdict(lambda: defaultdict(lambda: 0))
 
 for ind in range(len(df)):
@@ -80,6 +82,7 @@ for crs_trans in course_transitions:
 
 pos_ = nx.circular_layout(trans_graph)
 
+# DEFINING GRAPH DRAWING
 edge_traces = []
 for edge in trans_graph.edges():
     c0, c1 = edge
