@@ -10,7 +10,7 @@ pat = re.compile('()')
 hours = re.compile("([0-9] or )?[0-9] (under)?graduate hours")
 prereq = re.compile("Prerequisite:")
 
-outfile = "ACM_matched_CS_courses.csv"
+outfile = "ACM_matched_CS_courses.tsv"
 
 # load acm text map
 with open("ACM_Map_Full.tsv", "r") as inf:
@@ -43,7 +43,7 @@ word_vect = KeyedVectors.load_word2vec_format("SO_vectors_200.bin", binary=True)
 
 # write out header
 with open(outfile, "w") as outf:
-	outf.write("Course,ACM_Matches\n")
+	outf.write("Course\tACM_Matches\tACM_Match_Score\n")
 
 
 for row in courses.itertuples(index=False, name="Course"):
@@ -77,7 +77,11 @@ for row in courses.itertuples(index=False, name="Course"):
 		output.append(list(np.array(targets)[highest_matches]))
 		# print(np.array(targets)[highest_matches], np.array(highest_rel)[highest_matches])
 	with open(outfile, "a") as outf:
-		outf.write(f"{row.Title},{':'.join([';'.join(k) for k in output])}")
+		outf.write(row.Title)
+		outf.write('\t')
+		outf.write(':'.join([''.join(k) for k in output]))
+		outf.write('\t')
+		outf.write(np.array(highest_rel)[highest_matches].__str__())
 		outf.write("\n")
 		
 		
